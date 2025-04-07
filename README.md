@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Alok</h1>
+<h3 align="center">Engineering student | Strategic Thinker | Code Warrior | Chess-Style Decision Maker</h3>
 
-<!--
-**alokkksharmaa/alokkksharmaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on:  
+  - ⚔️ A **Java Chess AI Game**  
+  - 💸 **Monetrix**: Wealth + System Domination Tech Project
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning:  
+  - Advanced **DSA** using Java  
+  - **System Design (LLD + HLD)**  
+  - **Psychological Warfare, Negotiation, and Influence**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on:
+  - Open Source Java Projects
+  - Strategy-Based Tech Systems
+
+- 🤔 I’m looking for help with:
+  - Breaking into **FAANG / Elite Startups**
+  - Mastering **Competitive Programming**
+
+- 💬 Ask me about:
+  - Java, Git, Chess, Strategy, Mind Games, or Power Tactics
+
+- 📫 Reach me at: `alokpowerking@example.com`  
+- 🧠 Fun fact: I treat life like a chessboard—and I *always* play to win.
+
+---
+
+### ⚙️ Tech Stack & Tools:
+
+```markdown
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
