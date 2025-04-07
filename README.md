@@ -1,35 +1,31 @@
-<h1 align="center">Hi 👋, I'm Alok</h1>
-<h3 align="center">Engineering student | Strategic Thinker | Code Warrior | Chess-Style Decision Maker</h3>
+# Hey, I'm Alok 👋
 
-- 🔭 I’m currently working on:  
-  - ⚔️ A **Java Chess AI Game**  
-  - 💸 **Monetrix**: Wealth + System Domination Tech Project
-
-- 🌱 I’m currently learning:  
-  - Advanced **DSA** using Java  
-  - **System Design (LLD + HLD)**  
-  - **Psychological Warfare, Negotiation, and Influence**
-
-- 👯 I’m looking to collaborate on:
-  - Open Source Java Projects
-  - Strategy-Based Tech Systems
-
-- 🤔 I’m looking for help with:
-  - Breaking into **FAANG / Elite Startups**
-  - Mastering **Competitive Programming**
-
-- 💬 Ask me about:
-  - Java, Git, Chess, Strategy, Mind Games, or Power Tactics
-
-- 📫 Reach me at: `alokpowerking@example.com`  
-- 🧠 Fun fact: I treat life like a chessboard—and I *always* play to win.
+💻 Java Developer | System Design Enthusiast | Problem Solver  
+🔧 Engineering undergrad | Tech explorer | Ubuntu user
 
 ---
 
-### ⚙️ Tech Stack & Tools:
-
-```markdown
+## 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Alok's GitHub stats](https://github-readme-stats.vercel.app/api?username=alokusername&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alokusername&layout=compact&theme=radical)
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+[![Instagram](https://img.shields.io/badge/-Instagram-red?logo=Instagram&logoColor=white)](https://instagram.com/yourprofile)  
+📧 alokkumarsharma@example.com
+
+---
+
+> `while(alok.isFocused()) { power++; }`
