@@ -24,6 +24,17 @@
 
 ---
 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alokkksharmaa&show_icons=true&theme=radical" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=alokkksharmaa&theme=radical&date_format=M%20j%5B%2C%20Y%5D" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokkksharmaa&layout=compact&theme=radical"/>
+</p>
+
+
 ## 🔗 Featured Projects
 
 - 🚀 [Efficient Page Replacement Simulator](https://github.com/alokkksharmaa/Efficient-Page-Replacement-Algorithm-Simulator)  
@@ -45,5 +56,8 @@
 📧 aloksharma1097@gmail.com
 
 ---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=alokkksharmaa&theme=radical&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://streak-stats.demolab.com?user=alokkksharmaa&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 > `while(alok.isFocused()) { power++; }`
