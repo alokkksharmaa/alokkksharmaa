@@ -1,18 +1,18 @@
 # Hey, I'm Alok 👋
 
-💻 Java Developer | System Design Enthusiast | Problem Solver  
-🔧 Engineering Undergrad | Tech Explorer | Ubuntu Native
+💻 **Java Developer** | ⚙️ **System Design Enthusiast** | 🧠 **Problem Solver**  
+🎓 Engineering Undergrad | 🚀 Tech Explorer | 🐧 Ubuntu Native
 
 ---
 
-## 🛠️ Tech Stack
+## 🔧 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -24,6 +24,14 @@
 
 ---
 
+## 🚀 Featured Projects
+
+- 🎯 [Efficient Page Replacement Simulator](https://github.com/alokkksharmaa/Efficient-Page-Replacement-Algorithm-Simulator)
+- ✈️ [AI Travel Journal Generator](https://github.com/alokkksharmaa/AI-TRAVEL-JOURNAL-Generator)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alokkksharmaa&show_icons=true&theme=radical" height="180"/>
@@ -34,30 +42,29 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokkksharmaa&layout=compact&theme=radical"/>
 </p>
 
+---
 
-## 🔗 Featured Projects
+## 🏆 GitHub Trophies
 
-- 🚀 [Efficient Page Replacement Simulator](https://github.com/alokkksharmaa/Efficient-Page-Replacement-Algorithm-Simulator)  
-- 🧠 [AI Travel Journal Generator](https://github.com/alokkksharmaa/AI-TRAVEL-JOURNAL-Generator)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alokkksharmaa&theme=radical&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 🐍 Contribution Snake
 
-![Alok's GitHub stats](https://github-readme-stats.vercel.app/api?username=alokkksharmaa&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alokkksharmaa&layout=compact&theme=radical)
-
+![snake gif](https://github.com/alokkksharmaa/alokkksharmaa/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alok-s-011822213/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alok-s-011822213/)  
 📧 aloksharma1097@gmail.com
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=alokkksharmaa&theme=radical&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-[![GitHub Streak](https://streak-stats.demolab.com?user=alokkksharmaa&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+> `while(alok.isFocused()) { power++; }`  
+> _Every repo, every commit — is one more step toward global domination._
 
-> `while(alok.isFocused()) { power++; }`
