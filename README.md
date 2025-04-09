@@ -35,6 +35,8 @@
 
 ![Alok's GitHub stats](https://github-readme-stats.vercel.app/api?username=alokkksharmaa&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alokkksharmaa&layout=compact&theme=radical)
+![snake gif](https://github.com/alokkksharmaa/alokkksharmaa/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
