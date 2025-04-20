@@ -1,11 +1,11 @@
 # 👋 Hey, I'm Alok Sharma
 
 💻 **Java Developer** | ⚙️ **System Design Enthusiast** | 🧠 **Problem Solver**  
-🎓 Engineering Undergrad | 🚀 Tech Explorer | 🐧 Ubuntu Native | 🎯 Future FAANG'r
+🎓 Engineering Undergrad | 🚀 Tech Explorer | 🐧 Ubuntu Native | 🎯 Future FAANG’r
 
 ---
 
-## 🔧 Tech Stack I Use & Abuse
+## 🔧 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -25,17 +25,17 @@
 
 ---
 
-## 🚀 Projects That Slap 💥
+## 🚀 Notable Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🔄 [Page Replacement Simulator](https://github.com/alokkksharmaa/Efficient-Page-Replacement-Algorithm-Simulator) | Visualize how memory management works in OS | Java, Swing |
-| ✈️ [AI Travel Journal Generator](https://github.com/alokkksharmaa/AI-TRAVEL-JOURNAL-Generator) | Create journals from raw travel text | HTML, JS, Python |
-| 🛍️ [ShopSmart E-Commerce](https://tinyurl.com/shopsmartio) | Stylish e-store frontend with filtering & dark mode | HTML, CSS, Tailwind, JS |
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| 🔄 [Efficient Page Replacement Simulator](https://github.com/alokkksharmaa/Efficient-Page-Replacement-Algorithm-Simulator) | Java-based simulator that visualizes memory management techniques used in OS. | Java, Swing |
+| ✈️ [AI-Powered Travel Journal Generator](https://github.com/alokkksharmaa/AI-TRAVEL-JOURNAL-Generator) | Converts raw travel text into structured, elegant journals using AI. | HTML, JavaScript, Python |
+| 🛍️ [ShopSmart E-Commerce Platform](https://tinyurl.com/shopsmartio) | Modern, responsive e-commerce UI with filtering & dark mode. | HTML, Tailwind CSS, JavaScript |
 
 ---
 
-## 📊 GitHub Heat Level: 🔥
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alokkksharmaa&show_icons=true&theme=radical" height="180"/>
@@ -48,7 +48,7 @@
 
 ---
 
-## 🏆 GitHub Trophies Arena
+## 🏆 GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=alokkksharmaa&theme=radical&no-frame=true&row=1&column=6" />
@@ -68,17 +68,16 @@
 
 ---
 
-## 💬 Let’s Connect and Build an Empire
+## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alok-s-011822213/)  
 📧 aloksharma1097@gmail.com
 
 ---
 
-## 🧠 One-liner That Drives Me:
+## 🧠 Guiding Principle
 
 > `while(alok.isFocused()) { power++; }`  
-> _Disrupting mediocrity one commit at a time._  
+> _Pursuing excellence through code, systems, and strategy._
 
 ---
-
