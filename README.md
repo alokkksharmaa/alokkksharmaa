@@ -56,14 +56,25 @@
 
 ---
 
-## 📅 Contribution Calendar
+---
 
-<a href="https://github.com/alokkksharmaa">
-  <img src="https://github.com/alokkksharmaa/alokkksharmaa/raw/output/github-contribution-grid-snake.svg" alt="Alok's Contribution Graph" />
-</a>
+## 📈 GitHub Insights
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=alokkksharmaa&theme=rogue" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alokkksharmaa&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=alokkksharmaa&theme=radical&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokkksharmaa&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alokkksharmaa&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
