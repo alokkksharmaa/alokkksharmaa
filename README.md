@@ -56,9 +56,15 @@
 
 ---
 
-## 🐍 The Snake of Contribution
+## 📅 Contribution Calendar
 
-![snake gif](https://github.com/alokkksharmaa/alokkksharmaa/blob/output/github-contribution-grid-snake.svg)
+<a href="https://github.com/alokkksharmaa">
+  <img src="https://github.com/alokkksharmaa/alokkksharmaa/raw/output/github-contribution-grid-snake.svg" alt="Alok's Contribution Graph" />
+</a>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=alokkksharmaa&theme=rogue" alt="GitHub Activity Graph" />
+</p>
 
 ---
 
