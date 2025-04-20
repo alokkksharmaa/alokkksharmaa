@@ -1,15 +1,16 @@
-# Hey, I'm Alok 👋
+# 👋 Hey, I'm Alok Sharma
 
 💻 **Java Developer** | ⚙️ **System Design Enthusiast** | 🧠 **Problem Solver**  
-🎓 Engineering Undergrad | 🚀 Tech Explorer | 🐧 Ubuntu Native
+🎓 Engineering Undergrad | 🚀 Tech Explorer | 🐧 Ubuntu Native | 🎯 Future FAANG'r
 
 ---
 
-## 🔧 Tech Stack
+## 🔧 Tech Stack I Use & Abuse
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -24,14 +25,17 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects That Slap 💥
 
-- 🎯 [Efficient Page Replacement Simulator](https://github.com/alokkksharmaa/Efficient-Page-Replacement-Algorithm-Simulator)
-- ✈️ [AI Travel Journal Generator](https://github.com/alokkksharmaa/AI-TRAVEL-JOURNAL-Generator)
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🔄 [Page Replacement Simulator](https://github.com/alokkksharmaa/Efficient-Page-Replacement-Algorithm-Simulator) | Visualize how memory management works in OS | Java, Swing |
+| ✈️ [AI Travel Journal Generator](https://github.com/alokkksharmaa/AI-TRAVEL-JOURNAL-Generator) | Create journals from raw travel text | HTML, JS, Python |
+| 🛍️ [ShopSmart E-Commerce](https://tinyurl.com/shopsmartio) | Stylish e-store frontend with filtering & dark mode | HTML, CSS, Tailwind, JS |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Heat Level: 🔥
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alokkksharmaa&show_icons=true&theme=radical" height="180"/>
@@ -44,7 +48,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies Arena
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=alokkksharmaa&theme=radical&no-frame=true&row=1&column=6" />
@@ -52,19 +56,23 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 The Snake of Contribution
 
 ![snake gif](https://github.com/alokkksharmaa/alokkksharmaa/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 📫 Let’s Connect
+## 💬 Let’s Connect and Build an Empire
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alok-s-011822213/)  
 📧 aloksharma1097@gmail.com
 
 ---
 
+## 🧠 One-liner That Drives Me:
+
 > `while(alok.isFocused()) { power++; }`  
-> _Every repo, every commit — is one more step toward global domination._
+> _Disrupting mediocrity one commit at a time._  
+
+---
 
