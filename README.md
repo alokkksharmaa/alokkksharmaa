@@ -50,18 +50,8 @@
 
 
 
----
 
-## 📈 GitHub Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alokkksharmaa&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=alokkksharmaa&theme=radical&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokkksharmaa&layout=compact&theme=radical&hide_border=true"/>
-</p>
 
 ---
 
