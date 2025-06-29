@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Alok.
+# Hey, I'm Alok.
 
 💻 **Java Developer** | ⚙️ **System Design Enthusiast** | 🧠 **Problem Solver**  
 🎓 Engineering Undergrad | 🚀 Tech Explorer | 🐧 Ubuntu Native | 🎯 Future FAANG’r
