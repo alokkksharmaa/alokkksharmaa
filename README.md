@@ -25,6 +25,11 @@
 
 ---
 
+🎯 Focused on building projects.
+✍️ Open Source Contributor, sharing my work with the community.
+
+---
+
 ## 🚀 Notable Projects
 
 | Project | Description | Tech Stack |
