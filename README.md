@@ -1,7 +1,7 @@
 # Hey, I'm Alok.
 
-💻 **Java Developer** | ⚙️ **System Design Enthusiast** | 🧠 **Problem Solver**  
-🎓 Engineering Undergrad | 🚀 Tech Explorer | 🐧 Ubuntu Native | 🎯 Future FAANG’r
+**C++ Developer** |  **System Design Enthusiast** |  **Problem Solver**  
+🎓 Engineering Undergrad |  Tech Explorer |  Linux Ubuntu/Mint Native | 🎯 Future FAANG’r
 
 ---
 
