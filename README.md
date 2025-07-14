@@ -39,35 +39,6 @@
 | 🛍️ [ShopSmart E-Commerce Platform](https://tinyurl.com/shopsmartio) | Modern, responsive e-commerce UI with filtering & dark mode. | HTML, Tailwind CSS, JavaScript |Node.Js
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alokkksharmaa&show_icons=true&theme=radical" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=alokkksharmaa&theme=radical&date_format=M%20j%5B%2C%20Y%5D" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokkksharmaa&layout=compact&theme=radical"/>
-</p>
-
----
-
-
-
-
-
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alokkksharmaa&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alok-s-011822213/)  
@@ -75,9 +46,3 @@
 
 ---
 
-## 🧠 Guiding Principle
-
-> `while(alok.isFocused()) { power++; }`  
-> _Pursuing excellence through code, systems, and strategy._
-
----
