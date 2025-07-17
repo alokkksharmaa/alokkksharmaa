@@ -34,8 +34,8 @@
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 |  [Efficient Page Replacement Simulator](https://github.com/alokkksharmaa/Efficient-Page-Replacement-Algorithm-Simulator) | Java-based simulator that visualizes memory management techniques used in OS. | Java |
-| ✈ [AI-Powered Travel Journal Generator](https://github.com/alokkksharmaa/AI-TRAVEL-JOURNAL-Generator) | Converts raw travel text into structured, elegant journals using AI. | HTML, JavaScript, Python |
-| 🛍 [ShopSmart E-Commerce Platform](https://tinyurl.com/shopsmartio) | Modern, responsive e-commerce UI with filtering & dark mode. | HTML, Tailwind CSS, JavaScript |Node.Js
+|  [AI-Powered Travel Journal Generator](https://github.com/alokkksharmaa/AI-TRAVEL-JOURNAL-Generator) | Converts raw travel text into structured, elegant journals using AI. | HTML, JavaScript, Python |
+| [ShopSmart E-Commerce Platform](https://tinyurl.com/shopsmartio) | Modern, responsive e-commerce UI with filtering & dark mode. | HTML, Tailwind CSS, JavaScript |Node.Js
 
 ---
 ## 🤝 Let's Connect
