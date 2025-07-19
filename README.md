@@ -29,12 +29,12 @@
 
 ---
 
-## 🚀 Notable Projects
+## Notable Repositories
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 |  [Efficient Page Replacement Simulator](https://github.com/alokkksharmaa/Efficient-Page-Replacement-Algorithm-Simulator) | Java-based simulator that visualizes memory management techniques used in OS. | Java |
-|  [Data Structures And Algorithms](https://github.com/alokkksharmaa/DSA) | Tells you about algorithms, language used C++
+|  [Data Structures And Algorithms](https://github.com/alokkksharmaa/DSA) | Tells you about algorithms | Language used C++
 
 ---
 ##  Let's Connect
