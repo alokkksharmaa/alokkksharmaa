@@ -5,7 +5,7 @@
 
 ---
 
-## 🔧 Tech Stack
+##  Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -24,8 +24,8 @@
 
 ---
 
-🎯 Focused on building projects.
-✍️ Open Source Contributor, sharing my work with the community.
+ Focused on building projects.
+ Open Source Contributor, sharing my work with the community.
 
 ---
 
@@ -34,11 +34,10 @@
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 |  [Efficient Page Replacement Simulator](https://github.com/alokkksharmaa/Efficient-Page-Replacement-Algorithm-Simulator) | Java-based simulator that visualizes memory management techniques used in OS. | Java |
-|  [AI-Powered Travel Journal Generator](https://github.com/alokkksharmaa/AI-TRAVEL-JOURNAL-Generator) | Converts raw travel text into structured, elegant journals using AI. | HTML, JavaScript, Python |
-| [ShopSmart E-Commerce Platform](https://tinyurl.com/shopsmartio) | Modern, responsive e-commerce UI with filtering & dark mode. | HTML, Tailwind CSS, JavaScript |Node.Js
+|  [Data Structures And Algorithms](https://github.com/alokkksharmaa/DSA) | Tells you about algorithms, language used C++
 
 ---
-## 🤝 Let's Connect
+##  Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alok-s-011822213/)  
 📧 aloksharma1097@gmail.com
