@@ -1,6 +1,6 @@
 # Hey, I'm Alok.
 
-**C++ Developer** | **Web App Developer** | **Problem Solver** | **Open Source Contributor**
+**Mern Stack Developer**| **C++** | **Problem Solver** | **Open Source Contributor**
 | 🎓 Engineering Undergrad |  Tech Explorer | 
 
 ---
