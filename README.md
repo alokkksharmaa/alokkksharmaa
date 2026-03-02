@@ -35,7 +35,7 @@
 ---
 ##  Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alok-s-011822213/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alokkksharmaa/)  
 📧 aloksharma1097@gmail.com
 
 ---
