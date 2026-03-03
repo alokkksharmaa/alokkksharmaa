@@ -1,12 +1,11 @@
 # Hey, I'm Alok.
 
-**MERN Stack Developer** | **DevOps Enthusiast** | **1x Hackathon Winner 🏆**  
-**C++** | **Problem Solver** | **Open Source Contributor**  
-**🎓 Engineering Undergrad** | **Tech Explorer**
+**Mern Stack Developer** | **1 x Hackathon Winner 🏆** | **C++** | **Problem Solver** | **Open Source Contributor**
+| 🎓 Engineering Undergrad |  Tech Explorer | 
 
 ---
 
-## Tech Stack
+##  Tech Stack
 
 ### Languages
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -24,24 +23,26 @@
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### DevOps & Cloud
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### Tools
+### Tools & OS
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ---
 
-Focused on building scalable projects and automating workflows.  
-Exploring DevOps, Linux systems, and deployment pipelines.  
-Open Source Contributor, sharing my work with the community.
+ Focused on building projects.
+ Open Source Contributor, sharing my work with the community.
 
 ---
-
-## Let's Connect
+##  Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alokkksharmaa/)  
 📧 aloksharma1097@gmail.com
+
+---
+
+
+
+
+add devops and linux here somewhere accordingly.
+
+and give me copy paste text.
