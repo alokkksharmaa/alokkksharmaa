@@ -39,10 +39,3 @@
 📧 aloksharma1097@gmail.com
 
 ---
-
-
-
-
-add devops and linux here somewhere accordingly.
-
-and give me copy paste text.
