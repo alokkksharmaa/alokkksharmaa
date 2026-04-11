@@ -1,6 +1,6 @@
 # Hey, I'm Alok.
 
-**Mern Stack Developer** | **Attended 5+ 🚀Hackathon, WON 2x🏆** | **C++** | **Problem Solver** | **Open Source Contributor**
+**Full Stack Developer** | **Attended 5+ 🚀Hackathon, WON 2x🏆** | **C++** | **Problem Solver** | **Open Source Contributor**
 | 🎓 Engineering Undergrad |  Tech Explorer 
 
 ---
