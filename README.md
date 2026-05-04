@@ -86,12 +86,3 @@ Accomplished Full Stack Developer with proven expertise in building scalable web
 **GitHub:** [github.com/alokkksharmaa](https://github.com/alokkksharmaa)
 
 </div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=alokkksharmaa&color=gray)
-
-
-</div>
