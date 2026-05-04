@@ -77,13 +77,6 @@ Accomplished Full Stack Developer with proven expertise in building scalable web
 </div>
 
 ---
-
-## FEATURED PROJECTS
-
-*Portfolio projects coming soon. Explore my repositories for the latest work.*
-
----
-
 ## PROFESSIONAL LINKS
 
 <div align="center">
