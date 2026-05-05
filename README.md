@@ -65,18 +65,6 @@ Accomplished Full Stack Developer with proven expertise in building scalable web
 | **Community Contribution** | Active open-source contributor and knowledge sharer |
 
 ---
-
-## GITHUB ANALYTICS
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alokkksharmaa&show_icons=true&theme=github_dark)](https://github.com/alokkksharmaa)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alokkksharmaa&layout=compact&theme=github_dark)](https://github.com/alokkksharmaa)
-
-</div>
-
----
 ## PROFESSIONAL LINKS
 
 <div align="center">
