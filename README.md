@@ -59,7 +59,7 @@ Accomplished Full Stack Developer with proven expertise in building scalable web
 
 | Achievement | Details |
 |---|---|
-| **Competitive Excellence** | 2x Hackathon Winner, 5+ Hackathon Participant |
+| **Competitive Excellence** | 2x Hackathon Winner, 6+ Hackathon Participant |
 | **Full Stack Development** | End-to-end application architecture and implementation |
 | **Problem Solving** | Complex algorithmic challenges and system design |
 | **Community Contribution** | Active open-source contributor and knowledge sharer |
