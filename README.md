@@ -21,7 +21,7 @@ Accomplished Full Stack Developer with proven expertise in building scalable web
 ## CORE COMPETENCIES
 
 **Languages:** C++, JavaScript  
-**Frontend:** React, Next.js, Tailwind CSS, CSS3  
+**Frontend:** React, CSS3
 **Backend:** Node.js 
 **Databases:** MongoDB, MySQL  
 **DevOps & Tools:** Git, Ubuntu  
