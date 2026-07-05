@@ -24,7 +24,7 @@ Accomplished Full Stack Developer with proven expertise in building scalable web
 **Frontend:** React, CSS3
 **Backend:** Node.js 
 **Databases:** MongoDB, MySQL  
-**DevOps & Tools:** Git, Ubuntu  
+**Tools:** Git,Linux(Ubuntu)  
 
 ---
 
