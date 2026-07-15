@@ -3,7 +3,7 @@
 # ALOK KUMAR
 
 ### Software Engineer | Full Stack Engineer| Open Source Contributor |  Linux Enthusiast
-
+[![committers.top badge](https://user-badge.committers.top/india/alokkksharmaa.svg)](https://user-badge.committers.top/india/alokkksharmaa)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alokkksharmaa/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aloksharma1097@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/alokkksharmaa)
@@ -31,8 +31,6 @@ Accomplished Full Stack Developer with proven expertise in building scalable web
 ## TECHNICAL STACK
 
 <div align="center">
-
-[![committers.top badge](https://user-badge.committers.top/india/alokkksharmaa.svg)](https://user-badge.committers.top/india/alokkksharmaa)
 
 
 ### Languages
