@@ -32,7 +32,7 @@ Accomplished Full Stack Developer with proven expertise in building scalable web
 
 <div align="center">
 
-[![committers.top badge](https://user-badge.committers.top/india/USERNAME.svg)](https://user-badge.committers.top/india/USERNAME)
+[![committers.top badge](https://user-badge.committers.top/india/alokkksharmaa.svg)](https://user-badge.committers.top/india/alokkksharmaa)
 
 
 ### Languages
